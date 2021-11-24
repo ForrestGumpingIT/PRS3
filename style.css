@@ -1,0 +1,31 @@
+html {
+   min-height: 100%;
+background-image: url("images/beach.jpg");
+background-size:100%;
+}
+
+h1 {
+  color: navy;
+  text-align: center;
+  font-size:90px;
+  font-family:Garamond;
+}
+h2 {
+	color: navy;
+	text-align: center;
+	
+}
+
+form{
+	text-align:center;
+	
+}
+
+.Button{
+ text-align:center;
+	
+}
+
+placeholder{
+	font:green;
+}
